@@ -1,2 +1,1 @@
-frase aleatória
-frase 2
+nova alteração
